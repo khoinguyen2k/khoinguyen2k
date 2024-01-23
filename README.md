@@ -7,7 +7,8 @@ If you feel a bit related, please consider contributing to [My-wiki](https://git
 
 If this repository receives significant attention, it will help hundreds of millions of Windows 7 users in the world.
 
-My-wiki's current popularity
+My-wiki's current popularity:
+
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khoinguyen2k\&repo=My-wiki\&show_owner=true)
 
 ## Vie
