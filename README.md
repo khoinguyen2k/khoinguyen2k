@@ -9,7 +9,7 @@ If this repository receives significant attention, it will help hundreds of mill
 
 My-wiki's current popularity:
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khoinguyen2k\&repo=My-wiki\&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khoinguyen2k\&repo=My-wiki)
 
 ## Vie
 Tôi đang lập trình trên 1 chiếc laptop rất cũ, chạy hệ điều hành Windows 7. Đa số trường hợp nó không ảnh hưởng gì mấy đến việc lập trình. Tuy nhiên, một số ứng dụng, thư viện (ví dụ như những thứ về MongoDB, NodeJS 18, v.v) yêu cầu Windows 8 hoặc 10 mới có thể sử dụng và sử dụng ổn định được. Có rất nhiều người dùng Windows 7 nhận thấy sự đi xuống rõ rệt về hiệu năng sau khi nâng cấp lên Windows 10.
