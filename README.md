@@ -3,7 +3,7 @@
 ## Eng
 I am coding on a very old low-end laptop running Windows 7 OS. FeelStrongMan💪💪💪
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoinguyen2k)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoinguyen2k&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <!---In most cases, it doesn't have much impact on programming. However, some applications and libraries (such as those related to MongoDB, NodeJS 18, etc.) require Windows 8 or 10 to be useable and perform reliably. Many Windows 7 users have instant regret after upgrading their OS to Windows 10.
 
 If you feel a bit related, please consider contributing to [My-wiki](https://github.com/khoinguyen2k/My-wiki) through [Issues](https://github.com/khoinguyen2k/My-wiki/issues) and [Pull requests](https://github.com/khoinguyen2k/My-wiki/pulls).
