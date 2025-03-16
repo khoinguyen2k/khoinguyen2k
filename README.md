@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ## Eng
--I am coding on a very old low-end laptop running Windows 7 OS. FeelStrongMan💪💪💪-
+~I am coding on a very old low-end laptop running Windows 7 OS. FeelStrongMan💪💪💪~
+
 Update: Fvck Coding
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoinguyen2k&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
